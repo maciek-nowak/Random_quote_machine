@@ -1,0 +1,36 @@
+body {
+	background: #0099ff;
+	font-family: Arial;
+}
+
+.box {
+	margin: 10vh;
+}
+
+h1 {
+	margin: 5vh;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	color: white;
+}
+
+button {
+	display: block;
+	margin: 30px auto;
+	padding: 10px 30px;
+	background: #0099ff;
+	color: white;
+}
+
+a {
+	width: 97px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	border: solid 1px white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+}
